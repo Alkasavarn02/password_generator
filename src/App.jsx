@@ -57,7 +57,7 @@ function App() {
                 className='btn'
                 onClick={copiedToClip}
                 style={{
-                  backgroundColor: copy ==='Copy' ? 'white' : '#00004B',
+                  backgroundColor: copy ==='Copy' ? 'blue' : '#00004B',
                   color:copy ==='Copy' ? 'black' : 'white',
                 }}
               >
